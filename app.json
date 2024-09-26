@@ -36,7 +36,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "🌟⃝🌸𓆩🇧𝗚𝗧🎸🇲𝗨𝗦𝗜𝗖🎸🇧𝗢𝗧𓆪💫⃟👑 ",
+        "value": "🌟⃝🌸𓆩𝑻𝒐𝒙𝒊𝒄 𝑿 𝑴𝒖𝒔𝒊𝒄𓆪💫⃟👑 ",
         "required": true
       },
       "OWNER_ID": {
